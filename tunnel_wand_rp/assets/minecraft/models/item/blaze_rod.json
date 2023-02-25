@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/handheld",
+  "overrides": [
+    {
+      "model": "tunneling:item/blaze_rod_ender_trim",
+      "predicate": {
+        "trim_type": 0.001
+      }
+    }
+  ],
+  "textures": {
+    "layer0": "minecraft:item/blaze_rod"
+  }
+}

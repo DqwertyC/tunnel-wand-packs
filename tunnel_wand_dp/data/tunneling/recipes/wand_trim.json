@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_trim",
+  "addition": {
+    "item": "minecraft:ender_eye"
+  },
+  "base": {
+    "item": "minecraft:blaze_rod"
+  },
+  "template": {
+    "item": "minecraft:nether_star"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "tunneling:wand",
+  "description": {
+    "text": "Tunneling Wand"
+  },
+  "template_item": "minecraft:nether_star"
+}

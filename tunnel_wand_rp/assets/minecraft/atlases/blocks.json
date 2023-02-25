@@ -1,0 +1,14 @@
+{
+  "sources": [
+    {
+      "type": "paletted_permutations",
+      "textures": [
+        "tunneling:trims/items/wand_trim"
+      ],
+      "palette_key": "trims/color_palettes/trim_palette",
+      "permutations": {
+        "ender": "tunneling:trims/color_palettes/ender"
+      }
+    }
+  ]
+}
