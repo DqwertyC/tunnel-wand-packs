@@ -1,5 +1,5 @@
 # Tunnel Wand
-This datapack and resourcepack adds a tunneling wand to Minecraft.
+This datapack and resourcepack adds a tunneling wand to Minecraft. Requires the 1.20 experimental datapack and snapshots.
 
 ### IMPORTANT NOTE: 
 
